@@ -5,7 +5,7 @@ page and boxed elements */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    color: white
+      color: white
 }
 
 /* Styling of the header*/
@@ -65,12 +65,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* display for h2 SE where did these classes come from*/
+/* display for h2 SE */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/* alignment for ORM paragraph no class in html?*/
+/* alignment for ORM paragraph */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -192,14 +192,18 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Foot */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 .footer h2 {
     font-size: 20px;
+    color: black;
+}
+
+.footer p {
+    color: black;
 }
