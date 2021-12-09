@@ -20,7 +20,7 @@ page and boxed elements */
     {display: inline-block;
     font-size: 48px }
 
-/* Slightly different color for leters 
+/* Slightly different color for letters 
 SEO in header*/
 .header h1 .seo {
     color: #d9dcd6;
@@ -47,7 +47,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* can also go under traits of nav bar*/
+/* more traits of nav bar*/
 a {
     /* deledted color: #ffffff; */
     text-decoration: none;
